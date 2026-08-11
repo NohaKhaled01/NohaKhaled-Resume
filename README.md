@@ -1,6 +1,7 @@
 # Noha Khaled — Resume
 
-📍 [GitHub Profile](https://github.com/Nohakhaled01) · [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/nuha-khaled-mahmoud/)) *(optional)*
+📍[LinkedIn]((https://www.linkedin.com/in/nuha-khaled-mahmoud/)) · [GitHub Profile](https://github.com/Nohakhaled01)
+📍[Contact](nohakhaled01@outlook.com) 
 
 ---
 
@@ -72,4 +73,4 @@ Cairo University, Faculty of Engineering — *Jul 2018*
 
 ---
 
-*Last updated: April 2026*  
+*Last updated: June 2026*  
