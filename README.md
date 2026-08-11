@@ -1,6 +1,6 @@
 # Noha Khaled — Resume
 
-📍[LinkedIn](https://www.linkedin.com/in/nuha-khaled-mahmoud/) · [GitHub Profile](https://github.com/Nohakhaled01)
+📍[LinkedIn](https://www.linkedin.com/in/nuha-khaled-mahmoud/) | [GitHub Profile](https://github.com/Nohakhaled01)
 
 📍[Contact](nohakhaled01@outlook.com) 
 
@@ -23,7 +23,7 @@
 *Jan 2023 – June 2026*
 
 - **Engineering Simulation Data Pipeline** *(initiated and built independently)*  
-  [GitHub Repository](https://github.com/Nohakhaled01/engineering-simulation-data-pipeline)
+  [GitHub Repository](https://github.com/Nohakhaled01/engineering-simulation-data-pipeline) | 
   [GitHub Repository - Azure MySQL WorkFlow](https://github.com/NohaKhaled01/EngineeringSimulationDataWarehouse_Azure_MySql)  
   - Designed a normalized schema from scratch, consolidating simulation data from multiple sources (JSON profile files, Azure boards, reference CSVs) into a single query‑able source.  
   - Built a Python ETL pipeline (`pandas`, `SQLAlchemy`, `regex`, `JSON`) to extract, clean, and load the multi‑source data into MySQL in correct parent‑child order.  
