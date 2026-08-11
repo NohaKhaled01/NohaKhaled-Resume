@@ -2,7 +2,7 @@
 
 📍[LinkedIn](https://www.linkedin.com/in/nuha-khaled-mahmoud/) | [GitHub Profile](https://github.com/Nohakhaled01)
 
-📍[Contact](nohakhaled01@outlook.com) 
+nohakhaled01@outlook.com | +20 112-592-2326
 
 ---
 
