@@ -1,6 +1,7 @@
 # Noha Khaled — Resume
 
-📍[LinkedIn]((https://www.linkedin.com/in/nuha-khaled-mahmoud/)) · [GitHub Profile](https://github.com/Nohakhaled01)
+📍[LinkedIn](https://www.linkedin.com/in/nuha-khaled-mahmoud/) · [GitHub Profile](https://github.com/Nohakhaled01)
+
 📍[Contact](nohakhaled01@outlook.com) 
 
 ---
