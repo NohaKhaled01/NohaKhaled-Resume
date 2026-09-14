@@ -8,12 +8,15 @@ nohakhaled01@outlook.com | +20 112-592-2326
 
 ## 👩‍💻 Technical Skills
 
+- **Automotive Domain**: Vehicle thermal management, HV lithium-ion battery packs, TRA, thermal-fluid simulations
 - **Data Modelling & Transformation**: dbt core, DuckDB  
 - **Database Design**: Relational schema, surrogate keys, intentional de-normalization  
-- **SQL/MySQL**: CTEs, window functions, multi-table joins  
+- **SQL/MySQL**: CTEs, window functions, multi-table joins, query optimization  
 - **Python**: Pandas, NumPy, SQLAlchemy, fuzzy matching, regex‑based parsing, automation and verification scripting  
 - **Version Control**: Git (branching, pull requests, repository organization)  
 - **BI & Reporting**: Power BI, Excel (Power Query, DAX, Data Modelling)
+- **Statistics & Analytics**: Descriptive statistics, probability, sampling distributions, confidence intervals, hypothesis testing, correlation
+- **Business Analysis & Agile**: Requirements, user stories, BPMN, Scrum/Kanban, prioritization, traceability
 
 ---
 
