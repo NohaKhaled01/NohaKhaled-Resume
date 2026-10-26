@@ -1,33 +1,42 @@
 # Noha Khaled
 ### Analytics Engineer | Mechanical Engineering & Team Leadership Background
 
-[LinkedIn](https://www.linkedin.com/in/nuha-khaled-mahmoud/) | [GitHub Profile](https://github.com/Nohakhaled01)
+[LinkedIn](https://www.linkedin.com/in/nuha-khaled-mahmoud/) | [GitHub Profile](https://github.com/Nohakhaled01) 
 
 nohakhaled01@outlook.com | +20 112-592-2326
 
 ---
 
-## 👩‍💻 Technical Skills
+## Technical Skills
 
-- **Automotive Domain**: Vehicle thermal management, HV lithium-ion battery packs, TRA, thermal-fluid simulations
-- **Data Modelling & Transformation**: dbt core, DuckDB, Snowflake, Prefect  
-- **Database Design**: Relational schema, surrogate keys, intentional de-normalization  
-- **SQL/MySQL**: CTEs, window functions, multi-table joins, query optimization  
-- **Python**: Pandas, NumPy, SQLAlchemy, fuzzy matching, regex‑based parsing, automation and verification scripting  
-- **Version Control**: Git (branching, pull requests, repository organization)  
-- **BI & Reporting**: Power BI, Excel (Power Query, DAX, Data Modelling)
-- **Statistics & Analytics**: Descriptive statistics, probability, sampling distributions, confidence intervals, hypothesis testing, correlation
-- **Business Analysis & Agile**: Requirements, user stories, BPMN, Scrum/Kanban, prioritization, traceability
+- **Automotive Domain**:\
+Vehicle thermal management, HV lithium-ion battery packs, TRA, thermal-fluid simulations
+- **Data Modelling & Transformation**:\
+dbt core, DuckDB, Snowflake, Prefect  
+- **Database Design**:\
+Relational schema, surrogate keys, intentional de-normalization  
+- **SQL/MySQL**:\
+CTEs, window functions, multi-table joins, query optimization  
+- **Python**:\
+Pandas, NumPy, SQLAlchemy, fuzzy matching, regex‑based parsing, automation and verification scripting  
+- **Version Control**:\
+Git (branching, pull requests, repository organization)  
+- **BI & Reporting**:\
+Power BI, Excel (Power Query, DAX, Data Modelling)
+- **Statistics & Analytics**:\
+Descriptive statistics, probability, sampling distributions, confidence intervals, hypothesis testing, correlation
+- **Business Analysis & Agile**:\
+Requirements, user stories, BPMN, Scrum/Kanban, prioritization, traceability
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### **Lead Technical Analyst** — Optumatics  
 *Jan 2023 – June 2026*
 
 - **Engineering Simulation Data Pipeline** *(initiated and built independently)*  
-  [GitHub Repository](https://github.com/Nohakhaled01/engineering-simulation-data-pipeline) | 
+  [GitHub Repository - DB design and Python ETL](https://github.com/NohaKhaled01/EngineeringSimulationDataWarehouse) | 
   [GitHub Repository - Azure MySQL WorkFlow](https://github.com/NohaKhaled01/EngineeringSimulationDataWarehouse_Azure_MySql)  
   - Designed a normalized schema from scratch, consolidating simulation data from multiple sources (JSON profile files, Azure boards, reference CSVs) into a single query‑able source.  
   - Built a Python ETL pipeline (`pandas`, `SQLAlchemy`, `regex`, `JSON`) to extract, clean, and load the multi‑source data into MySQL in correct parent‑child order.  
@@ -51,10 +60,10 @@ nohakhaled01@outlook.com | +20 112-592-2326
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### **Analysis of Olist Brazilian Ecommerce Dataset** (MySQL + dbt Pipeline)  
-*Personal Project* — [Repository](https://github.com/NohaKhaled01/Olist_DataSet) | [dbt Project](https://github.com/NohaKhaled01/Olist_DataSet-dbtProject)
+*Personal Project* — [GitHub Repository: MySQL + PowerBI](https://github.com/NohaKhaled01/Olist_DataSet) | [GitHub Repository: dbt Core + DuckDB](https://github.com/NohaKhaled01/Olist_DataSet-dbtProject)
 
 - Setup a MySQL relational database with **9 tables** for **90K+ orders**.  
 - Conducted end‑to‑end analysis in SQL (CTEs, window functions, multi‑table joins) and reported findings in **Power BI**, surfacing data‑quality discrepancies and business insights across payments, delivery, and pricing.  
@@ -62,7 +71,7 @@ nohakhaled01@outlook.com | +20 112-592-2326
 
 ---
 
-## 🎓 Certificates
+## Certificates
 
 **Google Data Analytics Professional Certificate** — Coursera  
 *April 2026*  
@@ -70,7 +79,7 @@ Completed an 8‑course series covering the full data analysis process: *Ask, Pr
 
 ---
 
-## 🏫 Education
+## Education
 
 **Bachelor of Science in Mechanical Engineering**  
 Cairo University, Faculty of Engineering — *Jul 2018*  
