@@ -1,4 +1,4 @@
-# Noha Khaled — Resume
+# Analytics Engineer | Mechanical Engineering & Team Leadership Background
 
 📍[LinkedIn](https://www.linkedin.com/in/nuha-khaled-mahmoud/) | [GitHub Profile](https://github.com/Nohakhaled01)
 
@@ -9,7 +9,7 @@ nohakhaled01@outlook.com | +20 112-592-2326
 ## 👩‍💻 Technical Skills
 
 - **Automotive Domain**: Vehicle thermal management, HV lithium-ion battery packs, TRA, thermal-fluid simulations
-- **Data Modelling & Transformation**: dbt core, DuckDB  
+- **Data Modelling & Transformation**: dbt core, DuckDB, Snowflake, Prefect  
 - **Database Design**: Relational schema, surrogate keys, intentional de-normalization  
 - **SQL/MySQL**: CTEs, window functions, multi-table joins, query optimization  
 - **Python**: Pandas, NumPy, SQLAlchemy, fuzzy matching, regex‑based parsing, automation and verification scripting  
@@ -78,4 +78,4 @@ Cairo University, Faculty of Engineering — *Jul 2018*
 
 ---
 
-*Last updated: June 2026*  
+*Last updated: Oct 2026*  
