@@ -1,8 +1,7 @@
 # Noha Khaled
-## Analytics Engineer 
-## Mechanical Engineering & Team Leadership Background
+### Analytics Engineer | Mechanical Engineering & Team Leadership Background
 
-📍[LinkedIn](https://www.linkedin.com/in/nuha-khaled-mahmoud/) | [GitHub Profile](https://github.com/Nohakhaled01)
+[LinkedIn](https://www.linkedin.com/in/nuha-khaled-mahmoud/) | [GitHub Profile](https://github.com/Nohakhaled01)
 
 nohakhaled01@outlook.com | +20 112-592-2326
 
